@@ -16,3 +16,7 @@ Clone the repo from https://github.com/mingyuan-zhang/MotionDiffuse and follow t
 [Paper](https://arxiv.org/abs/2301.06052)
 
 Clone the repo from https://github.com/Mael-zys/T2M-GPT and use the t2m-gpt.py to generate motion sequences
+
+## DiffusionLens
+
+[Paper](https://arxiv.org/abs/2403.05846)
